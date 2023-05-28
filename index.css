@@ -1,0 +1,163 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.content__hero__top{
+    margin-top: 90px;
+    display: flex;
+    background-image: linear-gradient(#fff,#ffff00);
+
+}
+header{
+    background-color: #000000;
+    margin-top: -20px;
+}
+
+.menu__hero__top{
+    display: flex;
+}
+
+.list__menu{
+    display: flex;
+    gap: 40px;
+    justify-content: end;
+    align-items: center;
+    width: 1300px;
+    height: 100px;
+}
+
+.list__menu a {
+    text-decoration: none;
+    color: #ffff00;
+    background-color: #000000;
+    border: 1px solid yellow;
+    padding: 10px 20px;
+}
+
+.menu3{
+    margin-right: 20px;
+}
+.imagem__hero__top{
+    height: 600px;
+    width: 600px;
+    margin-left: 150px;
+}
+
+.list__text{
+    margin-top: 90px;
+    list-style: none;
+    width: 330px;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.container__list{
+    padding-top: 90px;
+}
+
+.btn{
+
+    background-color: #cccc06;
+    padding: 5px 30px;
+    text-decoration: none;
+    color: #000000;
+}
+
+section h1 {
+    text-align: center;
+}
+
+.card__cursos{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+section{
+    margin-bottom: 80px;
+}
+
+.content{
+    list-style: none;
+    background-color: #ecebeb;
+    width: 290px;
+}
+
+.card__imagem1{
+    width: 290px;
+}
+.content li {
+    margin-left: 10px;
+    text-align: left;
+    margin-bottom: 20px;
+    width: 270px;
+}
+
+.text__card1{
+    font-weight: 900;
+}
+
+.content3 li {
+    margin-bottom: 20px;
+}
+
+.content3{
+    background-color: #ecebeb;
+    width: 290px;
+    height: 270px;
+    list-style: none;
+}
+
+.ver-mais{
+    margin-top: 90px;
+    text-align: center;
+}
+
+.image__content2{
+    width: 300px;
+    height: 200px;
+}
+
+.content2{
+    background-color: rgb(2, 16, 94);
+    margin-top: 130px;
+    display: flex;
+    gap: 40px;
+}
+
+.content__text{
+    color: #fff;
+    list-style: none;
+    width: 400px;
+}
+
+.text__nossa{
+    margin-top: 30px;
+    margin-bottom: 90px;
+    font-size: 30px;
+}
+
+.maps{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.contato__local{
+    list-style: none;
+    margin-bottom: 10px;
+    text-align: right;
+    margin-right: 39px;
+}
+
+footer p {
+    text-align: center;
+    background-color: #000000;
+    color: #fff;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px;
+}
